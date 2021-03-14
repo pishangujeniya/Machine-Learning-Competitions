@@ -17,6 +17,8 @@
 
 [Hackerearth-Resolving-Citizens-Grievances](./Hackerearth-Resolving-Citizens-Grievances)
 
+[Hackerearth-Exhibit-Art-Predict-Shipping-Cost](./Hackerearth-Exhibit-Art-Predict-Shipping-Cost)
+
 [Kaggle-Global-Wheat-Detection](./Kaggle-Global-Wheat-Detection)
 
 [Others](./Others)

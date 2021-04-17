@@ -10,14 +10,15 @@
 <a href="https://twitter.com/pishangujeniya"><img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" width="40" alt="twitter"></a> 
 <a href="https://www.instagram.com/pishang.ujeniya"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="40" alt="instagram"></a>
 
-
 ## Competition Name and Directories
+
+[Hackerearth-Customer-Churn-Rate](./Hackerearth-Customer-Churn-Rate)
+
+[Hackerearth-Exhibit-Art-Predict-Shipping-Cost](./Hackerearth-Exhibit-Art-Predict-Shipping-Cost)
 
 [Hackerearth-Predict-Love-Match-Percentage](./Hackerearth-Predict-Love-Match-Percentage)
 
 [Hackerearth-Resolving-Citizens-Grievances](./Hackerearth-Resolving-Citizens-Grievances)
-
-[Hackerearth-Exhibit-Art-Predict-Shipping-Cost](./Hackerearth-Exhibit-Art-Predict-Shipping-Cost)
 
 [Kaggle-Global-Wheat-Detection](./Kaggle-Global-Wheat-Detection)
 

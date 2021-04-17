@@ -1,4 +1,6 @@
-# [3rd Ranked Leaderboard](https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-predict-match-percentage/leaderboard/predict-the-match-percentage-25-818cf487/page/1/) | [Certificate](./Pishangkumar Ujeniya _love in the time of screens.pdf)
+# [3rd Ranked Leaderboard](https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-predict-match-percentage/leaderboard/predict-the-match-percentage-25-818cf487/page/1/)
+
+## [Certificate](./Pishangkumar_Ujeniya_love_in_the_time_of_screens.pdf)
 
 ## [Code](./match_cosine_similarity_bio_location.ipynb)
 

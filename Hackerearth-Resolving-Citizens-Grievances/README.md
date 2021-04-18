@@ -1,6 +1,6 @@
 # ML-Resolving-citizens-grievances
 
-[Leaderboard](https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-predict-grievance-importance/leaderboard/predict-the-importance-27-a4ecaaa1/page/4/) - 154th rank
+## [152/2135 Ranked Leaderboard](https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-predict-grievance-importance/leaderboard/predict-the-importance-27-a4ecaaa1/page/4/)
 
 ![Feature Image](https://media-fastly.hackerearth.com/media/hackathon/hackerearth-machine-learning-challenge-predict-grievance-importance/images/bb2de2c84b-Cover_HumanRights.jpg)
 

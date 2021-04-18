@@ -1,8 +1,8 @@
 # HackerEarth Machine Learning Challenge: Exhibit A(rt)
 
-![Feature Image](https://media-fastly.hackerearth.com/media/hackathon/hackerearth-machine-learning-challenge-predict-shipping-cost/images/20a63f4666-Art_Cover.png)
+## [108/3958 Ranked Leaderboard](https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-predict-shipping-cost/leaderboard/predict-the-cost-to-ship-the-sculptures-12-e7728f5d/page/3/)
 
-[Leaderboard](https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-predict-shipping-cost/leaderboard/predict-the-cost-to-ship-the-sculptures-12-e7728f5d/page/3/) - 117th rank
+![Feature Image](https://media-fastly.hackerearth.com/media/hackathon/hackerearth-machine-learning-challenge-predict-shipping-cost/images/20a63f4666-Art_Cover.png)
 
 ![Leaderboard Rank](./images/leaderboard.png)
 

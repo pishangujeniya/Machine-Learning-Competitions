@@ -18,6 +18,8 @@
 
 [Hackerearth-Predict-Love-Match-Percentage](./Hackerearth-Predict-Love-Match-Percentage)
 
+[Hackerearth-Reduce-Marketing-Waste](./Hackerearth-Reduce-Marketing-Waste)
+
 [Hackerearth-Resolving-Citizens-Grievances](./Hackerearth-Resolving-Citizens-Grievances)
 
 [Kaggle-Global-Wheat-Detection](./Kaggle-Global-Wheat-Detection)

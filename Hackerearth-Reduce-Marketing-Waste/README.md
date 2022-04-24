@@ -12,7 +12,7 @@
 
 
 ## [HackerEarth Reduce Marketing Waste](https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-reduce-marketing-spend/)
-> Mar 31, 2021, 10:00 PM IST - Apr00 30, 2021, 10:30 PM IST
+> Mar 31, 2021, 10:00 PM IST - April 30, 2021, 10:30 PM IST
 
 ## **Problem**
 
